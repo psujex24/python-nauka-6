@@ -13,3 +13,5 @@ while odp != los:
     elif odp < los:
         print("Niestety, wylosowana liczba jest większa od Twojej")
 print("Brawo! Odgadłeś za", i, "razem.")
+
+# program został napisany w ramach nauki programowania: https://youtu.be/sJIzPZzTMhg?si=vUMMEsq8U1rwvOts
